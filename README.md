@@ -41,7 +41,7 @@ bmlp-transaksi-nasabah
 ## Menjalankan Secara Lokal
 ```
 git clone https://github.com/Izanafza13/BMLP-Transaksi-Nasabah.git
-cd bmlp-transaksi-nasabah
+cd BMLP-Transaksi-Nasabah
 python -m venv .venv
 .venv\Scripts\activate          # macOS/Linux: source .venv/bin/activate
 python -m pip install -r requirements.txt
