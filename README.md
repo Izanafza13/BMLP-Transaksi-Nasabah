@@ -26,7 +26,7 @@ Model **dilatih ulang saat aplikasi dibuka** (datanya kecil), dengan `random_sta
 
 ## Struktur Direktori
 ```
-bmlp-transaksi-nasabah
+BMLP-Transaksi-Nasabah
 ├── app.py                          # aplikasi Streamlit
 ├── pipeline.py                     # preprocessing, clustering, klasifikasi, prediksi
 ├── data
