@@ -4,7 +4,7 @@ Proyek akhir kelas **Belajar Machine Learning untuk Pemula** (Dicoding × Coding
 
 > ⚠️ **Demo pembelajaran, bukan sistem deteksi penipuan.** Lihat bagian [Keterbatasan](#keterbatasan).
 
-**Demo:** _(isi tautan Streamlit setelah deploy)_
+**Demo:** _https://bmlp-transaksi-nasabah.streamlit.app/_
 
 ## Alur Proyek
 1. **Data:** 2.512 transaksi keuangan (dataset dari materi kelas Dicoding). Setelah menghapus data kosong, duplikat, kolom ID/IP/tanggal, dan outlier (IQR), tersisa **1.945** baris.
